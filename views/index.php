@@ -2,11 +2,11 @@
 
 <html>
 <head>
-<title>Test</title>
+<title>Web Dev Testing Ground</title>
+<link rel="stylesheet" type="text/css" href="index.css">
 </head>
 
 <body>
-<?php echo "<h1>Test</h1>" ?>
-<?php echo "<p>Test</p>" ?>
+
 </body>
 </html>
