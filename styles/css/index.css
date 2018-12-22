@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
+html {
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+em {
+  font-style: 400i;
+}
+
+p {
+  font-weight: 400;
+}
+
+/*# sourceMappingURL=index.css.map */
